@@ -1,0 +1,4 @@
+"AadClientId": "47b8323e-e227-4eea-9d63-9b653843861a",
+  "AadSecret": "be9d65cb-ae2c-4e1f-9206-0d1c1b539991",
+  "AadTenantDomain": "apintg.onmicrosoft.com",
+  "AadTenantId": "002c8ea1-0781-4d18-9607-ffb862f3d49c",
